@@ -28,7 +28,7 @@ Clona este repositorio en tu máquina local usando el siguiente comando:
 
 bash
 Copy code
-git clone https://github.com/tu_usuario/evaluacion-python.git
+git clone https://github.com/karinemachado0/evaluacion-python.git
 
 Explora el directorio ejercicios/ para encontrar los archivos de los ejercicios que he realizado. 
 
